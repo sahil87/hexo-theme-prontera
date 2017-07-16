@@ -4,6 +4,8 @@ favicon: /favicon.ico
 # Nav Menus
 menu:
     Index: /
+    About: /about
+    Quotes: /quotes
     Archives: /archives
 
 # Nav Shortcut Icons
@@ -19,17 +21,17 @@ friend_links:
 
 # About
 about_info:
-    name: "AngryPowman"
-    bio: "十年饮冰·难凉热血"
-    avatar: "/images/avatar.png"
+    name: "Sahil Ahuja"
+    bio: "Typing Monkey"
+    avatar: "/images/sahil_dojo420.png"
 
 # Comment
 # e.g disqus: seansun
-disqus: angrypowman
+disqus: sahil-cc
 duoshuo: 
 
 # Analytics
-google_analytics: angrypowman
+google_analytics: UA-87967706-1
 tencent_analytics: 
  
 # Copyright Infomation
